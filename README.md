@@ -45,19 +45,19 @@ This is a project amis to teach myself how to use typescirpt in project.
 
 1. install `eslint` using `npm`
 
-```bash
-npm install --save-dev eslint
-```
+   ```bash
+   npm install --save-dev eslint
+   ```
 
 2. run `eslint` initialization command
 
-```bash
-npx eslint --init
-```
+   ```bash
+   npx eslint --init
+   ```
 
 This will ask you a series of questions:
 
-- How would you like to use ESlint?
+- How would you like to use `ESlint`?
 - What type of modules does your project use?
 - which framework does your project use?
 - Does your project use TypeScript?
